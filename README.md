@@ -1,6 +1,6 @@
 # FTCR Navigation Demo
 
-Project where it is demonstrated how to use GeoJson files to draw objects on the HERE Map (for example: polylines and polygons) using the HERE SDK for Android (Explore/Navigate Edition) in version 4.x.x
+Project showing how turn-based navigation works with Fleet Telematics Custom Routing (FTCR) in HERE SDK for Android (Premium Edition) v3.x.x
 
 Build instructions:
 -------------------
